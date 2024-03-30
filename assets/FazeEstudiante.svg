@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1820"
+   height="350"
+   viewBox="0 0 1820 350"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="FazeEstudiante.svg"
+   inkscape:export-filename="D:\xampp\htdocs\ISC\proyecto-web\img\LogoLiberum.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.5962963"
+     inkscape:cx="1414.5652"
+     inkscape:cy="354.68944"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     height="500px" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#aa0000;stroke:none;stroke-width:1.33163px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23.478261,26.494013 H 461.18012 L 396.41811,91.256017 H 281.40971 V 158.2512 h 146.27282 l -74.253,74.253 h -53.03785 l -102.72595,91.00179 v -147.3894 h -59.17907 l -35.73077,-51.36298 h 98.2596 V 91.256017 H 74.841244 Z"
+       id="path1202" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:306.793px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.66983"
+       x="456.21915"
+       y="290.04736"
+       id="text8635"><tspan
+         sodipodi:role="line"
+         id="tspan8633"
+         x="456.21915"
+         y="290.04736"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Mohave;-inkscape-font-specification:Mohave;stroke-width:7.66983">ESTUDIANTE</tspan></text>
+  </g>
+</svg>
