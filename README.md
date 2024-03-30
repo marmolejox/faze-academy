@@ -22,6 +22,6 @@ Si tienes alguna recomendación, duda, aclaración no dudes en contactarme: marm
 ## Screenshots
 
 <div>
-  <img src="timecapsule.png">
+  <img src="fazeacademy.png">
 </div>
 
